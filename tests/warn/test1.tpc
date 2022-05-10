@@ -1,0 +1,12 @@
+int a;
+char *test1, test;
+
+char main(int fort){
+	
+    if(1){
+    	return -1+1;
+    }
+    return 'a';
+    return 0;
+    
+}

@@ -1,0 +1,24 @@
+int a;
+char b;
+
+int zeekf(int aaa, int aa){
+	return aaa + aa;
+}
+
+int azer(void){
+	int aaa, aa;
+	aaa = 5;
+	aa =12;
+	a = 3;
+	b = 'c';
+	
+
+	zeekf(aaa, aa);
+	return a;
+	
+}
+
+int main(void){
+	azer();
+	return 1;
+}

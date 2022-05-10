@@ -1,0 +1,27 @@
+int a, b;
+char *test1, test;
+
+
+int printf(void){
+	return a + b;
+}
+
+
+void fct1(int a){
+	
+	print(a);
+}
+
+int main(int fort){
+	char *suis;
+    if(1){
+        
+    	return -1+1;
+    }
+    print(suis);
+    fct1(test);
+
+    return 0;
+    
+}
+

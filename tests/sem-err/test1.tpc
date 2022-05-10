@@ -1,0 +1,35 @@
+int k;
+
+struct a{
+    int z;
+    int h;
+};
+
+int a;
+int b;
+
+struct po{
+    int r;
+};
+
+struct air un, deux, trois;
+
+int fct_1(void){
+    a = 3;
+    fct_1(a , a);
+    if(a >= 1 || a >= 1 + 4)
+        a = 6;
+    else
+        a = 15;
+    while(a < b && a > 34)
+        // Ceci est un commentaire d'une ligne
+        b = 9;
+    return a;
+
+    return 0;
+    {return 0;}
+
+    print(6);
+    
+
+}

@@ -1,0 +1,25 @@
+
+int a;
+ch b;
+
+int printf(int a, int b){
+    return a + b;
+}
+
+void zeekf(int aaa, int aa){
+    printf aaa, aa);
+}
+
+int main(void){
+    int aaa, aa;
+    aaa = 5;
+    aa = 12;
+    a = 3;
+    b = 'c';
+    print(1);
+    return a;
+
+}
+
+
+

@@ -1,0 +1,18 @@
+
+int trinome(int a, int b, int c) {
+    int d; 
+    char h;
+    char *s; 
+    d=b*b-4*a*c;
+    if (d>=0) {
+        h = 0;
+        return 1;
+    }
+    return 0;
+}
+
+int main(void){
+    return 0;
+}
+
+
